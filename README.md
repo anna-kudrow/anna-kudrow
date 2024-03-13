@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna :)
 ===============================================================================================================================
 
-I'm a junior frontend developer.
+I'm a frontend developer.
 --------------------------------
 
 I've been studing programming since 2021 and tried different programming directions. But frontend is the most attractive for me 💜 So I continue my way and master it step by step 🐾 I wish to take a part in awesome projects 🤞🏼
