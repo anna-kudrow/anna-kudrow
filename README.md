@@ -10,7 +10,7 @@ I've been studing programming since 2021 and tried different programming directi
 * ✉️  You can contact me at [anka-kudrow@mail.ru](mailto:anka-kudrow@mail.ru)
 * 🧠  I'm learning JS
 * ⚡  I'm addicted to kitesurfing and snowboarding
-* 🗣 I speak Russian, English and a bit Turkish
+* 🗣 I speak Russian, English and a bit Turkish, Türkçe oğrenmeyi çok severim ve umarım yakında iyi konuşabilirim.
 
 ### Skills
 
