@@ -8,7 +8,7 @@ I've been studing programming since 2021 and tried different programming directi
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [anka-kudrow@mail.ru](mailto:anka-kudrow@mail.ru)
-* 🧠  I'm learning JS
+* 🧠  I'm learning React and Type Script
 * ⚡  I'm addicted to kitesurfing and snowboarding
 * 🗣 I speak Russian, English and Turkish.
 
