@@ -11,7 +11,7 @@ I've been studing programming since 2021 and tried different programming directi
 * 🧠  I'm learning React and Type Script
 * ⚡  I'm addicted to kitesurfing and snowboarding
 * 🗣 I speak Russian, English and Turkish.
-* 👩‍💻 Here is me web page: https://anna-kudrow.github.io/my-CV/
+* 👩‍💻 Here is my web page: https://anna-kudrow.github.io/my-CV/
 
 ### Skills
 
