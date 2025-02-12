@@ -8,10 +8,10 @@ I've been studing programming since 2021 and tried different programming directi
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [anka-kudrow@mail.ru](mailto:anka-kudrow@mail.ru)
-* 🧠  I'm learning React and Type Script
+* 🫠  My fav technologies React, Next, Shadcn and TypeScript
 * ⚡  I'm interested in kitesurfing, travelling and anatytical psychology
 * 🗣 I speak Russian, English and Turkish
-* 👩‍💻 Here is my web page: https://anna-kudrow.github.io/my-CV/
+* 👩‍💻 Here is my Linkedin: [https://anna-kudrow.github.io/my-CV/](https://www.linkedin.com/in/anna-kudriavtseva-developer/)
 
 ### Skills
 
