@@ -4,7 +4,8 @@ Hi !      I'm Anna 😊
 I'm a frontend developer.
 --------------------------------
 
-I've been studing programming since 2021 and tried different programming directions. But frontend is the most attractive for me 💜 So I continue my way and master it step by step 🐾 I wish to take a part in awesome projects 🤞🏼
+I'm passionate about creating modern and efficient web applications. I specialize in developing interfaces using React, striving to create convenient and intuitive user solutions. But also I am interested in learning new languages and always tend to extend my technology stack! 💻
+
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [anka-kudrow@mail.ru](mailto:anka-kudrow@mail.ru)
