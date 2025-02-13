@@ -12,7 +12,7 @@ I'm passionate about creating modern and efficient web applications. I specializ
 * 🫠  My fav technologies React, Next, Shadcn and TypeScript
 * ⚡  I'm interested in kitesurfing, travelling and anatytical psychology
 * 🗣 I speak Russian, English and Turkish
-* 👩‍💻 Here is my Linkedin:(https://www.linkedin.com/in/anna-kudriavtseva-developer/)
+* 👩‍💻 Here is my Linkedin: https://www.linkedin.com/in/anna-kudriavtseva-developer/
 
 ### Skills
 
