@@ -8,7 +8,7 @@ I'm passionate about creating modern and efficient web applications. I specializ
 
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [anka-kudrow@mail.ru](mailto:anka-kudrow@mail.ru)
+* ✉️  You can contact me at [anna.frontend.dev@ya.ru](mailto:anna.frontend.dev@ya.ru)
 * 🫠  My fav technologies React, Next, Shadcn and TypeScript
 * ⚡  I'm interested in kitesurfing, travelling and analytical psychology
 * 🗣 I speak Russian, English and Turkish
